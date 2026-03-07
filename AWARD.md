@@ -1,0 +1,35 @@
+# 🎖️ Awards & Recognition
+
+## Central India Hackathon 2026
+
+### 🥈 2nd Place Award
+
+**Project:** HackShield Portal - The Ultimate Hackathon Management & Collaboration Platform
+
+**Achievement Date:** March 2026
+
+**Award:** 2nd Position out of all participating teams
+
+---
+
+## Key Achievements
+
+✅ Successfully developed a complete hackathon management platform  
+✅ Implemented advanced features including real-time collaboration  
+✅ Created comprehensive documentation  
+✅ Demonstrated excellent code quality and architecture  
+✅ Showcased innovation in team matching and IDE features  
+
+---
+
+## Event Details
+
+- **Event Name:** Central India Hackathon 2026
+- **Location:** India
+- **Duration:** 48+ hours of coding
+- **Categories:** Full-stack, Innovation, Architecture
+- **Outcome:** 2nd Place Winner
+
+---
+
+**Proof of Achievement:** [View on GitHub](https://github.com/KaranBhute123/hack-shield-portal)
