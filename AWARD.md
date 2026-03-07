@@ -2,13 +2,15 @@
 
 ## Central India Hackathon 2026
 
-### 🥈 2nd Place Award
+### 🥈 RUNNER-UP AWARD - 2nd Place
 
 **Project:** HackShield Portal - The Ultimate Hackathon Management & Collaboration Platform
 
 **Achievement Date:** March 2026
 
-**Award:** 2nd Position out of all participating teams
+**Award:** 🏅 Runner-Up (2nd Position) out of all participating teams
+
+**Status:** ✅ Verified and Published on GitHub
 
 ---
 

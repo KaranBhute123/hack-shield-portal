@@ -2,11 +2,13 @@
 
 > **The Ultimate Hackathon Management & Collaboration Platform**
 
-🏆 **Winner of Central India Hackathon 2026 - 2nd Place** 🥈
+# 🥈 **RUNNER-UP** - Central India Hackathon 2026
+
+> *Proudly securing 2nd place in a competitive hackathon with innovative features and professional execution*
 
 A comprehensive, feature-rich platform designed to revolutionize hackathon experiences with secure coding environments, intelligent team matching, real-time collaboration, and project marketplace integration.
 
-**[See Hackathon Results →](./HACKATHON_RESULTS.md)**
+**[🏆 View Hackathon Achievement →](./HACKATHON_RESULTS.md)**
 
 ---
 
