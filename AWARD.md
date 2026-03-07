@@ -34,4 +34,4 @@
 
 ---
 
-**Proof of Achievement:** [View on GitHub](https://github.com/KaranBhute123/hack-shield-portal)
+**Proof of Achievement:** [View on Linkedin](https://www.linkedin.com/posts/karan-bhute-a577b5306_hackathon-centralindiahackathon-cih30-ugcPost-7432839572587225089-QZ7D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4SlqMBnN3jwRBb7bGjVfVzT4oqQATwGxA)
